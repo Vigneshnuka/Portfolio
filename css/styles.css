@@ -1207,3 +1207,7 @@ h4,
 body.nav-open {
   overflow: hidden;
 }
+
+.line-break {
+  display: block;
+}
